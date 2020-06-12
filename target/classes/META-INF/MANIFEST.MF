@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-amazon-s3-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Souvik Ghosh
+Implementation-Vendor-Id: com.springbootdev.amazon.s3.example
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-amazon-s3-example
+Created-By: Maven Integration for Eclipse
+
